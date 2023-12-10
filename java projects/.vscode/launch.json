@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Bank",
+      "request": "launch",
+      "mainClass": "Bank",
+      "projectName": "java projects_fbdc4254"
+    },
+    {
+      "type": "java",
+      "name": "AccountDetails",
+      "request": "launch",
+      "mainClass": "Bank.AccountDetails",
+      "projectName": "java projects_fbdc4254"
+    },
+    {
+      "type": "java",
+      "name": "StudentsGrade",
+      "request": "launch",
+      "mainClass": "Bank.StudentsGrade",
+      "projectName": "java projects_fbdc4254"
+    },
+    {
+      "type": "java",
+      "name": "Hello_WorldNT",
+      "request": "launch",
+      "mainClass": "Hello_WorldNT",
+      "projectName": "java projects_fbdc4254"
+    }
+  ]
+}
